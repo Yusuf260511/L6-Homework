@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    width: 1440px;
+    height: 1024px;
+    background-color: #CD5D5D;
+    margin: 0 auto;
+    padding-right: 170px;
+    padding-left: 170px;
+    border: 2px solid black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.text1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 64px;
+    font-weight: 400;
+    color: white;
+}
+
+.span1 {
+    color: yellow;
+    font-weight: 700;
+}
+
+.logo {
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 46px;
+}
+
+.link {
+    margin-top: 46px;
+    color: #2000E8;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.text {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+a {
+    margin-top: 60px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.section {
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.otec {
+    margin-top: 23px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.r2 {
+    margin-top: 101px;
+}
+
+.section img {
+    width: 300px;
+    height: 140px;
+}
+
+.section h2 {
+    margin-top: 18px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.section p {
+    margin: 18px 27px 24px 27px;
+    font-size: 13px;
+    font-weight: 400;
+}
